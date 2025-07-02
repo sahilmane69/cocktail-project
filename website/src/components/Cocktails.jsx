@@ -84,3 +84,4 @@ export const Cocktails = () => {
    </section>
   )
 }
+export default Cocktails
